@@ -1,0 +1,14 @@
+# Environment variables (contains your secret keys)
+.env
+
+# Virtual environment folder
+venv/
+ENV/
+env/
+
+# IDE specific folders
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
